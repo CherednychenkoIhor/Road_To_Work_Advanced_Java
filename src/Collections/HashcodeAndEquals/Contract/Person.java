@@ -1,4 +1,4 @@
-package HashcodeAndEquals.Contract;
+package Collections.HashcodeAndEquals.Contract;
 
 public class Person {
     private final int id;

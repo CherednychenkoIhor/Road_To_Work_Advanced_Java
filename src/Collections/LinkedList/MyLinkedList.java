@@ -1,6 +1,5 @@
-package LinkedList;
+package Collections.LinkedList;
 
-import javax.swing.plaf.nimbus.NimbusLookAndFeel;
 import java.util.Arrays;
 
 public class MyLinkedList {

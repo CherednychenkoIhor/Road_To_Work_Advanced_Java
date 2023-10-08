@@ -1,4 +1,4 @@
-package LinkedHashMapAndTreeMap;
+package Collections.LinkedHashMapAndTreeMap;
 
 import java.util.*;
 

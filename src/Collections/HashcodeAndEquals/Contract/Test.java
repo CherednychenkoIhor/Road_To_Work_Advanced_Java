@@ -1,4 +1,4 @@
-package HashcodeAndEquals.Contract;
+package Collections.HashcodeAndEquals.Contract;
 
 import java.util.HashMap;
 import java.util.HashSet;
@@ -14,7 +14,7 @@ public class Test {
         map.put("BilL", 40);
 
         Set<String> set = new HashSet<>(); // только уникальные значения
-        // Значения в HashSet это ключи в HashMap (map = new HashMap<>();)
+        // Значения в HashSet это ключи в Collections.HashMap (map = new Collections.HashMap<>();)
 
         System.out.println(map);
     }

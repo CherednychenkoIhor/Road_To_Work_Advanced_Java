@@ -1,4 +1,4 @@
-package Comparator;
+package Collections.Comparator;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -109,7 +109,7 @@ class StringLengthComparator implements Comparator<String> {
 }
 
 
-//class BackwardsIntegerComparator implements Comparator<Integer> {
+//class BackwardsIntegerComparator implements Collections.Comparator<Integer> {
 //
 //    // [5, 0, 500, 100]
 //    @Override

@@ -1,4 +1,4 @@
-package Comparable;
+package Collections.Comparable;
 
 import java.util.*;
 

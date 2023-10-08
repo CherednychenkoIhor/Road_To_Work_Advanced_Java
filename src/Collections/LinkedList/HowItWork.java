@@ -1,7 +1,4 @@
-package LinkedList;
-
-import java.util.LinkedList;
-import java.util.List;
+package Collections.LinkedList;
 
 public class HowItWork {
     public static void main(String[] args) {
