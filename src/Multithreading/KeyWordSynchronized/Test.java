@@ -13,8 +13,10 @@ public class Test {
         2: 100 -> 101 -> 101 -> 101
      */
 
-    public synchronized void increment() {
-        counter++;
+    public void increment() {
+        synchronized (this) {
+            counter++;
+        }
     }
 
     public synchronized void doWork() throws InterruptedException {
