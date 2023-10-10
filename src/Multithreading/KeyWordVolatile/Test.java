@@ -1,4 +1,4 @@
-package Multithreading.KeywordVolatile;
+package Multithreading.KeyWordVolatile;
 
 import java.util.Scanner;
 
